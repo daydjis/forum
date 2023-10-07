@@ -1,0 +1,21 @@
+.ProfileCard {
+  border: 2px solid var(--secondary-color);
+  padding: 20px;
+}
+.profileInfoWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.profileInfoInput {
+  display: flex;
+  flex-direction: column;
+}
+.profileimg {
+  max-width: 135px;
+}
+
+.Profilebtn {
+  max-width: 150px;
+}
