@@ -3,3 +3,6 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/forum.iml
+/i18nSettings.xml
+/vcs.xml
